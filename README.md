@@ -1,4 +1,4 @@
-## How to inatall Python on your computer
+## How to install Python on your computer
 
 ### Get started with Python Programming for Mac Users
 
