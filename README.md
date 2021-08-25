@@ -1,3 +1,25 @@
+## How to inatall Python on your computer
+
+### Get started with Python Programming for Windows Users
+
+* Download the lastest release from [Here](https://www.python.org/downloads/)
+  
+* second
+
+### Get started with Python Programming for Mac Users
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wooyoyohehe/wooyoyohehe.gothub.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
