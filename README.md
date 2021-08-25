@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+![Image](https://github.com/wooyoyohehe/Python-Installation/blob/main/images/Screen%20Shot%202021-08-25%20at%208.35.22%20AM.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
